@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Элемент меню "Цветовое качество" -->
+    <item
+        android:id="@+id/action_color_quality"
+        android:title="@string/colorQuality"
+        app:showAsAction="never" />
+    <!-- Элемент меню "Выход из приложения" -->
+    <item
+        android:id="@+id/action_exit"
+        android:title="@string/menu_Exit_Button"
+        app:showAsAction="never" />
+</menu>

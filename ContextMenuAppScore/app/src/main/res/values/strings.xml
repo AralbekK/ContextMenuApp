@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContextMenuApp</string>
+    <string name="insertTheScore">Введите оценку</string>
+    <string name="colorQuality">Цветовое качество</string>
+    <string name="menu_Exit_Button">Выход из приложения</string>
+    <string name="insertRandomInt">Случайное число</string>
+    <string name="context_menu_header">Выберите опцию</string>
+</resources>
